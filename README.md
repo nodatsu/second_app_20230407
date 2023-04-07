@@ -1,5 +1,7 @@
 # README
 
+Gitの動作確認のための追記
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
